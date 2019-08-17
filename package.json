@@ -1,0 +1,18 @@
+{
+  "name": "zeit-micro-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BolajiOlajide/zeit-micro-sample.git",
+  "author": "Bolaji Olajide <cooproton@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^9.3.4"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  },
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  }
+}
