@@ -8,7 +8,7 @@ module.exports.GET = async function(req, res) {
 }
 
 module.exports.POST = async function(req, res) {
-  // fs-router decorates your req object with param and query hashes
-  // console.log(req.
-  return send(res, 200, { message: 'POST request successful!' })
+  const data = await json(req);
+	console.log(data);
+  return send(res, 200, data)
 }
