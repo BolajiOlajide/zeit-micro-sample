@@ -6,6 +6,7 @@
   "author": "Bolaji Olajide <cooproton@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "fs-router": "^0.4.3",
     "micro": "^9.3.4"
   },
   "devDependencies": {

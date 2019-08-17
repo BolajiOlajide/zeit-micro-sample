@@ -588,6 +588,11 @@ fs-minipass@^1.2.5:
   dependencies:
     minipass "^2.2.1"
 
+fs-router@^0.4.3:
+  version "0.4.3"
+  resolved "https://registry.npmjs.org/fs-router/-/fs-router-0.4.3.tgz#537ac29a1c38601604c8e7dd93da900224150257"
+  integrity sha512-gLl81GK0InnXl2XH6HmjYZusFjBp+dk/XpksAUBHlG0pKI8dPY5kMWV3Rsr9g9I3r4+VXR5G+kXvsSuTn78pxw==
+
 fs.realpath@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz#1504ad2523158caa40db4a2787cb01411994ea4f"
